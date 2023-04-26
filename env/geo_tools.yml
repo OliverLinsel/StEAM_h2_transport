@@ -17,4 +17,6 @@ dependencies:
   - tqdm
   - geopandas
   - shapely
-    #- searoute #mit pip nachinstallieren
+#- searoute #mit pip nachinstallieren
+# in yaml können pip Installationen vordefiniert werden
+# https://kirenz.github.io/codelabs/codelabs/miniforge-setup/#5
