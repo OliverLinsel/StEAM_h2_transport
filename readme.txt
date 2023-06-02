@@ -17,9 +17,11 @@ Quickstart guide:
 1. Download repository
 2. Install required packages through env "geo_tools.yml"
 3. Install Spine https://github.com/spine-tools
-4. Open script in python development envirnoment
-5. Change desired parameters and node datasets
-6. Execute the script until after export of "transport_objects.xlsx"
-7. Execute SpineToolbox
-8. Execute the remaining script until the result visualisation appears
+4. Unpack model.zip
+5. Open model in Spine
+6. Open script in python development environment
+7. Change desired parameters and node datasets
+8. Execute the script until after export of "transport_objects.xlsx"
+9. Execute SpineToolbox
+10. Execute the remaining script until the result visualisation appears
 Done
