@@ -11,17 +11,4 @@ As it is not yet clear where the required amounts of hydrogen will be produced a
 This study provides a highly flexible approach for geographical structuring of sector integrated energy transport systems.
 It allows for the development of energy system networks within any geographical area on earth provided the basic system nodes and the subsequent provision of key data for energy system modelling.
 Through subsequent data processing the data structure of the model parameters can be adapted to meet the requirements of the respective energy system modelling framework.
-Thus, enabling the setup of energy transport systems to perform structured investigation of origin and transport in a future hydrogen economy.
-
-Quickstart guide:
-1. Download repository
-2. Install required packages through env "geo_tools.yml"
-3. Install Spine https://github.com/spine-tools
-4. Unpack model.zip
-5. Open model in Spine
-6. Open script in python development environment
-7. Change desired parameters and node datasets
-8. Execute the script until after export of "transport_objects.xlsx"
-9. Execute SpineToolbox
-10. Execute the remaining script until the result visualisation appears
-Done
+Thus, enabling the setup of energy transport systems to perform structured investigation of origin and transport in a future hydrogen economy. 
